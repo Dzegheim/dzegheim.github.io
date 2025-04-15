@@ -25,8 +25,18 @@
   </style>
 </head>
 <body>
-  <h1>Test</h1>
-  <p>Questa è una prova.</p>
-  <p>Vediamo come viene!</p>
+  <h1>Privacy e Libertà Digitale</h1>
+  <h2>Premessa</h2>
+  <p>Questo documento non è per nulla esaustivo, e proviene da alcune ricerche indipendenti che ho fatto negli anni cercando di capirci qualcosa in questo mondo un po' particolare. La privacy è un processo, che va perseguito. Quello che mi limiterò a fare qua sarà dare alcune risorse e informazioni basilari, divise per categorie. Per approfondire, sentivevi liberi e libere di contattarmi in privato, e magari nel tempo continuerò ad aggiornare questo documento con quello che scopro.</p>
+  <h2>Privacy e Sicurezza</h2>
+  <p>Privacy e sicurezza non sono la stessa cosa. Si intersecano, ma a volte si contraddicono. Cercherò di evidenziare questi dettagli ogni volta che posso.</p>
+<h2>"Non ho nulla da nascondere io!" - Il processo della privacy</h2>
+  <p>Spesso sentirete questa retorica: "io non ho nulla da nascondere, quindi non ho nulla da temere." Questo tipo di retorica è estremamente pericoloso per tutta una serie di motivi, di cui mi limiterò a elencare i più importanti:</p>
+<ul>
+  <li>Non è detto che ciò che è permesso oggi sia permesso anche domani, quindi tutelarsi e decidere consapevolmente quali e quante informazioni condividere è fondamentale per potersi tutelare anche in vista di un futuro incerto, in cui si accumulano sempre più dati. Se anche il governo di oggi vi va bene, siete sicuri e sicure vi andrà bene quello di domani? Pensate sarà sempre allineato con i vostri interessi?</li>
+  <li>Internet è per sempre, infatti ormai i dati che condividiamo non vengono mai eliminati, ma immagazziati e conservati a oltranza, quindi ciò che facciamo oggi potrebbe tornare a causarci problemi più avanti. Questo si collega al punto precedente, ma voglio enfatizzarlo per chiarire quanto pericoloso possa diventare il fatto che esista un archivio aggiornato int tempo reale di tutto ciò che facciamo e pensiamo.</li>
+  <li>Non sappiamo tutto quello che condividiamo, oggi i nostri dispositivi inviano una quantità enorme di dati senza che noi ne veniamo adeguatamente informati e informate, dati che includono (ma non si limitano a): orari a cui facciamo attività; persone con cui parliamo, quando, e quanto spesso; la nostra posizione; tutto ciò che cerchiamo online, incluse informazioni sanitarie e documenti; tutto ciò che scriviamo a ogni modello IA esistente; cosa mangiamo e quando; cosa ascoltiamo e guardiamo. Su questo punto invito a riflettere su quanto ci metterebbe a disagio se qualcuno che conosciamo pretendesse di avere sempre e in tempo reale da noi tutte queste informazioni - se non lo accettiamo da chi ci conosce, perché dovremmo accettarlo da qualche azienda o ente governativo?</li>
+  <li>"Se è gratis, se tu il prodotto", spesso le aziende offrono prodotti gratuiti con lo scopo di monetizzarci indirettamente, vendendoci pubblicità e soprattutto propaganda. È importante riconoscere che nessuno è immune alla propaganda, e chi pensa di esserlo è disinformato oppure ne è stato già vittima senza nemmeno rendersene conto.</li>
+</ul>
 </body>
 </html>
